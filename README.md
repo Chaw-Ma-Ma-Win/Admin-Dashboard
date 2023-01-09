@@ -1,3 +1,3 @@
 # Admin-Dashboard
 
-Live>>https://chaw-ma-ma-win.github.io/Admin-Dashbord/
+Live>>https://chaw-ma-ma-win.github.io/Admin-Dashboard/
